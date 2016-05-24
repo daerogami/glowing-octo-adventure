@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\bin\Debug\image-validator.exe.config
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\obj\Debug\image-validator.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\bin\Debug\image-validator.exe
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\bin\Debug\image-validator.pdb
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\obj\Debug\image-validator.exe
+C:\Users\Mark\Documents\glowing-octo-adventure\image-validator\obj\Debug\image-validator.pdb
